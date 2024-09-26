@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>肾结💩的妙妙屋</title>
+    <link>http://172.16.0.15:1313/</link>
+    <description>Recent content on 肾结💩的妙妙屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 Lovely_Xuck</copyright>
+    <lastBuildDate>Wed, 25 Sep 2024 18:09:42 +0800</lastBuildDate><atom:link href="http://172.16.0.15:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://172.16.0.15:1313/posts/main/about/</link>
+      <pubDate>Wed, 25 Sep 2024 18:09:42 +0800</pubDate>
+      
+      <guid>http://172.16.0.15:1313/posts/main/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://172.16.0.15:1313/posts/main/first-post/</link>
+      <pubDate>Wed, 25 Sep 2024 18:09:16 +0800</pubDate>
+      
+      <guid>http://172.16.0.15:1313/posts/main/first-post/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
