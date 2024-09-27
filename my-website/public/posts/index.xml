@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 肾结💩的妙妙屋</title>
+    <title>文档 on 肾结💩的妙妙屋</title>
     <link>http://172.16.0.15:1313/posts/</link>
-    <description>Recent content in Posts on 肾结💩的妙妙屋</description>
+    <description>Recent content in 文档 on 肾结💩的妙妙屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 Lovely_Xuck</copyright>
-    <lastBuildDate>Wed, 25 Sep 2024 18:09:42 +0800</lastBuildDate><atom:link href="http://172.16.0.15:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Sep 2024 10:09:27 +0800</lastBuildDate><atom:link href="http://172.16.0.15:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://172.16.0.15:1313/posts/main/about/</link>
+      <link>http://172.16.0.15:1313/posts/about/</link>
       <pubDate>Wed, 25 Sep 2024 18:09:42 +0800</pubDate>
       
-      <guid>http://172.16.0.15:1313/posts/main/about/</guid>
+      <guid>http://172.16.0.15:1313/posts/about/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>First Post</title>
-      <link>http://172.16.0.15:1313/posts/main/first-post/</link>
+      <link>http://172.16.0.15:1313/posts/first_post/</link>
       <pubDate>Wed, 25 Sep 2024 18:09:16 +0800</pubDate>
       
-      <guid>http://172.16.0.15:1313/posts/main/first-post/</guid>
+      <guid>http://172.16.0.15:1313/posts/first_post/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://172.16.0.15:1313/posts/first_post/featured.png" />
     </item>
     
   </channel>
