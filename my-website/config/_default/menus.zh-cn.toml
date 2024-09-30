@@ -13,18 +13,13 @@
 
 [[main]]
   name = "文档"
-  pageRef = "posts/"
+  pageRef = "doc"
   weight = 9
-#[[main]]
-#  name = "sing-box"
-#  parent = "文档"
-#  pageRef = "posts/main/first-post.md"
-#  weight = 10
 
-[[main]]
-  name = "关于我"
-  pageRef = "posts/about/"
-  weight = 10
+#[[main]]
+#  name = "关于我"
+#  pageRef = "doc/about/"
+#  weight = 10
 
 
 #[[main]]
