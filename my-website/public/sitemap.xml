@@ -9,19 +9,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://172.16.0.15:1313/posts/</loc>
+    <loc>http://172.16.0.15:1313/doc/</loc>
     <lastmod>2024-09-27T10:09:27+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://172.16.0.15:1313/posts/about/</loc>
+    <loc>http://172.16.0.15:1313/doc/about/</loc>
     <lastmod>2024-09-25T18:09:42+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://172.16.0.15:1313/posts/first_post/</loc>
+    <loc>http://172.16.0.15:1313/doc/first_post/</loc>
     <lastmod>2024-09-25T18:09:16+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
