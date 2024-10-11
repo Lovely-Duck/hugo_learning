@@ -8,6 +8,5 @@ showAuthor = false
 invertPagination = false
 +++
 {{< lead >}}
-由于本人比较懒记性还差，故此用来记录我弄过的折腾
+生命不息折腾不止
 {{< /lead >}}
-将会更新sing-box的配置，以及我是如何自建节点，个人终端出海的解决办法
