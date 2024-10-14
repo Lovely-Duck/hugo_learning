@@ -96,3 +96,8 @@ docker exec -it headscale headscale nodes register --user USERNAME --key nodekey
 Machine ffzmacbookpro14 registered
 ```
 提示`Machine XXX registered`为接入成功；注意`USERNAME`应为上面创建用户时的`用户`
+- `iPhone`和`iPad`同理使用appstore下载tailscale
+打开软件点击右上角![alt text](image-4.png)
+login > Use a cuntom... > 输入`http://公网IP或域名:8080/`
+![alt text](image-6.png)
+依旧会弹出验证页面然后回到headscale服务端运行即可
