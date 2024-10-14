@@ -5,6 +5,6 @@ draft = false
 +++
 
 {{< lead >}}
-使用hugo框架&blowfish主题来创建个人站点,这是一个实例
+使用hugo框架&blowfish主题来创建个人站点
 {{< /lead >}}
-这里是肾结💩的妙妙屋，通过自习创建此站
+欢迎光临肾结💩的妙妙屋，这是此站第一张post
