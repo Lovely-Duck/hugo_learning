@@ -16,10 +16,10 @@
   pageRef = "doc"
   weight = 9
 
-#[[main]]
-#  name = "关于我"
-#  pageRef = "doc/about/"
-#  weight = 10
+[[main]]
+  name = "联系"
+  url = "https://image.fitch.cloud"
+  weight = 10
 
 
 #[[main]]
