@@ -57,7 +57,7 @@ sing-box 配置文件
             "server_name": "bing.com",
             "insecure": true
           },
-          "server_port": 433,
+          "server_port": 443,
           "tag": "xxx"
       },
 ```
@@ -66,7 +66,7 @@ sing-box 配置文件
 ```bash
 - name: "xxx"
   type: hysteria2
-  server: mazy.fitch.cloud
+  server: 服务端IP或域名
   port: 443
   #  up和down均不写或为0则使用BBR流控
   up: "500 Mbps" # 若不写单位，默认为 Mbps
