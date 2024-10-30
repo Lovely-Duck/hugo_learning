@@ -21,7 +21,9 @@ title = "肾结💩的妙妙屋"
    imageQuality = 96
    headline = ""
    bio = "爱你孤身走暗巷"
-#   links = [
+   links = [
+     { wechat = "https://image.fitch.cloud"},
+     { telegram = "https://t.me/lazy_ff" },
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -59,7 +61,6 @@ title = "肾结💩的妙妙屋"
 #     { spotify = "https://open.spotify.com/user/userid" },
 #     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
 #     { steam = "https://steamcommunity.com/profiles/userid" },
-#     { telegram = "https://t.me/username" },
 #     { threads = "https://www.threads.net/@username" },
 #     { tiktok = "https://tiktok.com/@username" },
 #     { tumblr = "https://username.tumblr.com" },
@@ -70,4 +71,4 @@ title = "肾结💩的妙妙屋"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+   ]
