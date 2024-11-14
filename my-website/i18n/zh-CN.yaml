@@ -37,6 +37,7 @@ footer:
   powered_by: "由 {{ .Hugo }} &amp; {{ .Theme }} 强力驱动"
   framework: "构建工具"
   theme: "主题"
+  imagebed: "图床"
 
 
 list:

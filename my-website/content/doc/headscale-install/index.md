@@ -85,11 +85,11 @@ docker exec -it hedscale headscale user list
 |Android                     |yes                        |
 
 ### Mac & iPhone & iPad
- - `Mac` 浏览器打开http://公网IP或域名:8080/apple，下载`macOS AppStore profile`文件并运行![alt text](image-2.png)
- 打开系统设置>通用>设备管理  双击打开，安装![alt text](image-3.png)
+ - `Mac` 浏览器打开http://公网IP或域名:8080/apple，下载`macOS AppStore profile`文件并运行![headscale/apple](https://zone.fitch.cloud/sW9JQZ5xVUGq.png)
+ 打开系统设置>通用>设备管理  双击打开，安装![systemsettings](https://zone.fitch.cloud/g2VIzgQlH7Av.png)
  -  在app商店(非国区ID)安装Tailscale客户端并运行它,在状态栏上点击应用图标按下`command+,`
-点击`Add Account...`![alt text](image-1.png)
-会发现浏览器会打开一个验证页面![alt text](image.png)
+点击`Add Account...`![appsettings](https://zone.fitch.cloud/Y10JnVCwIPum.png)
+会发现浏览器会打开一个验证页面![confirm](https://zone.fitch.cloud/4J6J9iE00ecI.png)
 此时我们回到headscale服务端运行:
 ```bash
 docker exec -it headscale headscale nodes register --user USERNAME --key nodekey:345c366fe6de46a8ae56ba6dfe706573b45017a8432f08c9ad0459c9adf7ca77
@@ -97,7 +97,7 @@ Machine ffzmacbookpro14 registered
 ```
 提示`Machine XXX registered`为接入成功；注意`USERNAME`应为上面创建用户时的`用户`
 - `iPhone`和`iPad`同理使用appstore下载tailscale
-打开软件点击右上角![alt text](image-4.png)
+打开软件点击右上角![iosapp-1](https://zone.fitch.cloud/MoqrrQFjS8um.png)
 login > Use a cuntom... > 输入`http://公网IP或域名:8080/`
-![alt text](image-6.png)
+![iosapp-2](https://zone.fitch.cloud/kMU86ps8afvo.png)
 依旧会弹出验证页面然后回到headscale服务端运行即可

@@ -132,12 +132,12 @@ docker compose up -d
 Email:    admin@example.com
 Password: changeme
 ```
-![alt text](changeuser.png)
+![changeuser](https://zone.fitch.cloud/hMvkOVpQRsnL.png)
 此处Email可填写不存在的地址(只用作登录用途)
-![alt text](changepasswd.png)
+![changepasswd](https://zone.fitch.cloud/LFwjjpHWPGZm.png)
 修改密码后设置代理服务
-![alt text](<截屏2024-10-31 下午12.26.49.png>)
-![alt text](<截屏2024-10-31 下午12.35.02.png>)
+![config-sevice](https://zone.fitch.cloud/tyfIXmUjYcpu.png)
+![config-sevice2](https://zone.fitch.cloud/ptChQ7lHYqm5.png)
 - Domain Names：反向代理的域名，输入域名后按回车确认(该域名解析是本机公网ip)。
 - Forward Hostname / IP：填写代理的ip(为方便填写docker0网卡IP也可)。
 - Forward Port：反向代理的端口，这里就是8080。
@@ -145,7 +145,7 @@ Password: changeme
 - Block Common Exploits：阻止一些常见漏洞。
 - Websockets Spport：支持Websockets。
 - Access List：配合多账户使用，选择权限范围。
-![alt text](<截屏2024-10-31 下午12.40.53.png>)
+![setssl](https://zone.fitch.cloud/rOXkvh4Qjz9l.png)
 
 申请一个证书
 - SSL Certificate：选择证书，Request a new SSL Certificate使用当前域名申请新证书。
@@ -159,12 +159,12 @@ Password: changeme
 
 点击save
 
-![alt text](<截屏2024-10-31 下午1.03.33.png>)
+![aftersave](https://zone.fitch.cloud/6qmrVKp9I1UI.png)
 浏览器输入 **域名** 进行简单的配置，点击下方**创建用户**
-![alt text](register.png)
+![register](https://zone.fitch.cloud/6HzVqxi5CsGr.png)
 此处`电子邮件地址`随便填写即可(单纯登录用途)，也可以填写真实的地址；
 然后设置登录密码，登录
-![alt text](<截屏2024-10-31 下午1.23.10.png>)
+![login](https://zone.fitch.cloud/Xzk8CHTXfZlX.png)
 
 至此服务端建立完毕，接下来客户端如何接入
 
