@@ -25,7 +25,7 @@ root@VM-A2J416XGSG53:~/headscale# tree
 ```
 2. 下载配置示例并将其保存到**config**目录下
 ```bash
-weget https://github.com/juanfont/headscale/blob/main/config-example.yaml -O config.yaml
+wget https://github.com/juanfont/headscale/blob/main/config-example.yaml -O config.yaml
 ```
 - 修改`server_url`，改为公网IP或域名，国内服务器需要备案，推荐使用老外的服务器
 - `prefixes`字段，将ipv6注释，自定义私有地址网段：
