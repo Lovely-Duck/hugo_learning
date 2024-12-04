@@ -27,6 +27,11 @@ root@VM-A2J416XGSG53:~/headscale# tree
 ```bash
 wget https://raw.githubusercontent.com/juanfont/headscale/refs/heads/main/config-example.yaml -O config.yaml
 ```
+- `server_url`改成服务器解析的域名
+- ```ymal
+  listen_addr: 0.0.0.0:8080
+  #listen_addr: 127.0.0.1:8080
+  ```
 - `prefixes`字段，将ipv6注释，自定义私有地址网段：
 	```yaml
 	refixes:
