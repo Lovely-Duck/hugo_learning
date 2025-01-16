@@ -9,13 +9,33 @@
     <copyright>© 2024 Lovely_Xuck</copyright>
     <lastBuildDate>Fri, 27 Sep 2024 10:09:27 +0800</lastBuildDate><atom:link href="http://localhost:1313/doc/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/doc/first_post/</link>
-      <pubDate>Wed, 25 Sep 2024 18:09:16 +0800</pubDate>
+      <title>Bitwarden&amp;Vaultwarden</title>
+      <link>http://localhost:1313/doc/vaultwarden-bitwarden/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/doc/first_post/</guid>
+      <guid>http://localhost:1313/doc/vaultwarden-bitwarden/</guid>
+      <description>将展示如何搭建非官方 Bitwarden 兼容服务器并用 Bitwarden 连接它</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/doc/vaultwarden-bitwarden/featured.png" />
+    </item>
+    
+    <item>
+      <title>Hysteria2的安装使用</title>
+      <link>http://localhost:1313/doc/how-to-install-hysteria2config/</link>
+      <pubDate>Mon, 28 Oct 2024 14:08:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/doc/how-to-install-hysteria2config/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/doc/first_post/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/doc/how-to-install-hysteria2config/featured.png" />
+    </item>
+    
+    <item>
+      <title>Headscale食用教程</title>
+      <link>http://localhost:1313/doc/headscale-install/</link>
+      <pubDate>Mon, 14 Oct 2024 09:42:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/doc/headscale-install/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/doc/headscale-install/featured.png" />
     </item>
     
   </channel>

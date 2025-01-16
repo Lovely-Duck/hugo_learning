@@ -7,6 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 Lovely_Xuck</copyright>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bitwarden</title>
+      <link>http://localhost:1313/tags/bitwarden/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/bitwarden/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vaultwarden</title>
+      <link>http://localhost:1313/tags/vaultwarden/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/vaultwarden/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
