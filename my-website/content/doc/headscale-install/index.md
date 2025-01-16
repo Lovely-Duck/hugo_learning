@@ -25,9 +25,13 @@ root@VM-A2J416XGSG53:~/headscale# tree
 ```
 2. 下载配置示例并将其保存到**config**目录下
 ```bash
-weget https://github.com/juanfont/headscale/blob/main/config-example.yaml -O config.yaml
+wget https://raw.githubusercontent.com/juanfont/headscale/refs/heads/main/config-example.yaml -O config.yaml
 ```
-- 修改`server_url`，改为公网IP或域名，国内服务器需要备案，推荐使用老外的服务器
+- `server_url`改成服务器解析的域名
+- ```ymal
+  listen_addr: 0.0.0.0:8080
+  #listen_addr: 127.0.0.1:8080
+  ```
 - `prefixes`字段，将ipv6注释，自定义私有地址网段：
 	```yaml
 	refixes:
