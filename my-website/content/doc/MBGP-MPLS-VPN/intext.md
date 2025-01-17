@@ -132,6 +132,10 @@ MBGP MPLS VPN 作为一种新的VPN技术，解决了传统VPN的所有缺陷
         [Huawei]ip vpn-instance vpn1
         [Huawei-vpn-instance-vpn1]route-distinguisher 100:1
         [Huawei-vpn-instance-vpn1]vpn-target 100:1 both
+        [Huawei-vpn-instance-vpn1]q
+        [Huawei]int g0/0/1
+        ip binding vpn-instance vpn1 #绑定VPN实例
+        #接口IP消失需要重新配置IP
         ```
         
     4. 在主干网的各个路由器使能mpls
